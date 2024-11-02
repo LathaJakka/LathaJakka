@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LathaJakka
+- 👋 Hi, I’m @Latha Jakka
 - 👀 I’m interested in software testing, automation, and quality assurance
 - 🌱 I’m currently learning about advanced testing tools and methodologies
 - 💞️ I’m looking to collaborate on projects that focus on improving software quality and testing processes
